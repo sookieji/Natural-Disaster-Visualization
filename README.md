@@ -1,1 +1,2 @@
 # Natural-Disaster-Visualization
+The objective of this project is to use data visualization to find out top 4 natural disasters impacting a corporation in the energy industry. As a part of this project I also created multi maps (also known as Trellis charts or Panel charts) using Tableau. The dataset that was used contains list of natural disasters (Flood, Hurricane etc.) that occurred in the USA between the years of 2004 to 2015 (data source FEMA).
